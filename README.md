@@ -4,7 +4,7 @@ This repository contains the pytorch implementation of the proposed method *SALA
 
 ### Citation
 
-You find the PDF of *SALAD: Self-supervised Aggregation Learning for Anomaly Detection on X-Rays* MICCAI 2020 paper [here](https://cibm.ch/wp-content/uploads/Bozorgtabar2020_Chapter_SALADSelf-supervisedAggregatio.pdf).
+You find the PDF of *SALAD: Self-supervised Aggregation Learning for Anomaly Detection on X-Rays* MICCAI 2020 paper [here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-59710-8_46.pdf).
 
 If you use our code or find our work relevant to your research, please cite the paper as follows:
 
