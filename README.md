@@ -34,7 +34,7 @@ It downloads the data and moves it to the `data` folder. It also creates a conda
 Run the following command:
 
 ```
-python main.py CXR_author unet ../log/salad ../data/author
+python main.py CXR_author unet ../log/salad ../data/author --w_contrast 0.25
 ```
 
 ### Test
